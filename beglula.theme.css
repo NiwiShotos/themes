@@ -22,8 +22,7 @@
 :root {
   --background-image: url('https://cdn.discordapp.com/attachments/1066808327360741488/1109859510174101604/BEGLULA_TETE.jpg');
   --background-image-blur: 0px;
-  --background-image-size: 200%;
-  --background-image-position: Bottom center;
+  --background-image-size: 100%;
   --popout-image: var(--background-image);
   --popout-image-blur: 5px;
   --popout-image-size: cover;
